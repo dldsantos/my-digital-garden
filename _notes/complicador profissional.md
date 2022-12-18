@@ -1,3 +1,8 @@
+---
+aliases: 
+	- complicadores profissionais
+---
+
 Um **complicador profissional** é uma pessoa capaz de pegar um conceito extremamente simples e aplicável ao dia-a-dia de qualquer pessoa e transformá-lo em algo **extremamente complexo**.
 
 Diversos _youtubers_, _coaches_ e _profissionais_  da produtividade podem ser enquadrados como **complicadores profissionais**. É verdade que nem todos estes _**são**_ complicadores, e que nem todos **_agem de caso pensado_**, porém acabam, com sua prática, causando estresse demais e complicação desnecessária à adoção de métodos simples, como deveria ser o [[Zettelkasten]].

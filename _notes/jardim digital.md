@@ -1,8 +1,4 @@
----
-aliases: [digital garden]
----
-
-![[Pasted image 20220713135206.png]]
+![[digital-garden.png]]
 
 Um **jardim digital** existe para ser o **_cantinho particular_** de alguém na internet. É óbvio que à primeira vista alguém vai pensar que o _cantinho particular_ também é o site pessoal, os perfis que uma pessoa possui nas diversas redes sociais de hoje em dia ou um blog.
 
