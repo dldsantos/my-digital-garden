@@ -5,15 +5,15 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Bem-vindo! 🍀
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Este é um **jardim digital**. Caso você não esteja familiarizado com o termo, pode começar [[entendendo melhor do que se trata|jardim digital]]. 
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Este meu site é um [[jardim digital]], palavra que tem conquistado muita popularidade recentemente, e que, entre outras coisas, descreve um ponto diferente sobre o que um **blog** é. *Jardins digitais* são blogs com letra minúscula. Neste meu jardim digital, posso escrever sem me preocupar com o que as pessoas vão pensar do que escrevi. Posso escrever em pedaços pequenos de texto, que podem ficar inacabados até que eu os transforme em algo maior e com significado — tudo isso feito publicamente, como se eu estivesse trabalhando com a porta da garagem aberta. 
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+This is in contrast to big B blogging, which can be thought of as writing a 6k+ word thinkpiece or the authoritative work on topic X without shipping any smaller pieces.
 
 <style>
   .wrapper {
