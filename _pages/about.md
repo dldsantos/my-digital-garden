@@ -4,9 +4,9 @@ title: Sobre mim
 permalink: /about
 ---
 
-## Olá! Tudo bem? Meu nome é Daniel Santos.
+## Olá! Meu nome é Daniel Santos 👋🏻
 
-### É um prazer conhecer você! :wave:
+### É um prazer conhecer você!
 
 Sou um analista de sistemas brasileiro, marido e pai de dois filhos, e este site é a união entre meu jardim digital e meu commonplace book: aqui concentro textos, pensamentos, anotações e considerações.
 

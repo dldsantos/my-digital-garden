@@ -1,0 +1,1 @@
+blogs não são pra mim
