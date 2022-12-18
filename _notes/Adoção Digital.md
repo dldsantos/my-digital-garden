@@ -1,0 +1,104 @@
+## Adoção Digital
+	- **DX** -> **Digital Transformation**
+	- O ex-CEO da CISCO, John Chambers, [declarou em 2015](https://www.businessinsider.com.au/chambers-40-of-companies-are-dying-2015-6) que 40% das empresas deixará de existir em até 10 anos, a menos que consiga adotar novas tecnologias. [^1]
+	- Estágios da adoção digital
+		- Não são **analógico** e **digital** . [^1]
+		- Estágio 1: **Digitization** (Digitização)
+			- É transformar informação analógica em digital, para que possa ser armazenada, processada e transmitida. [^2]
+			- Também conhecido como **Digital Enablement** (habilitação digital).  [^3]
+			- É pegar um processo analógico e transformá-lo em digital sem qualquer mudança significativa no processo em si. [^3]
+			- Você se surpreenderia com o número de processos analógicos ainda existentes nas empresas mundo afora. Quantos de nós ainda escrevemos atas de reunião à mão? [^1]
+				- Se as atas são fotografadas ou escaneadas e depois enviadas por e-mail aos interessados, isso é **digitização** .
+		- Estágio 2: **Digitalization** (Digitalização)
+			- É adotar ferramentas digitais para gerenciar um processo como um todo. [^1]
+			- É interagir não mais no meio analógico (cartas e telefonemas), mas sim no meio digital (mídia social, chat, e-mail).  [^2]
+			- É o uso de tecnologias digitais para mudar um modelo de negócio e fornecer novas oportunidades de lucro e de geração de valor. [^3]
+			- É a mudança para uma plataforma de negócio digital. [^3]
+				- **Negócio digital** é a criação de novos projetos de negócio que mesclam os mundos físico e digital. [^3]
+			- Geralmente a digitização e a digitalização são usadas como sinônimos, de forma errada: empresas que não diferenciam os conceitos não têm chance de passar aos estágios 2 e 3. [^1]
+		- Estágio 3: **Digital Transformation** (Transformação Digital)
+			- Todos querem praticar, imaginando que é simplesmente uma mudança do que é analógico para o que é digital, o que não é errado, mas também não é completamente certo. [^1]
+			- Se a empresa sendo transformada digitalmente fosse uma pessoa, sua mudança seria total, passando por **mindset** , estilo de vida e valores.
+			- É a mudança do modelo de negócio da empresa. [^1]
+			- **Peter Salvitti** [diz que](https://twitter.com/psalvitti/status/1106197408650838021) a transformação digital é: [^1]
+				- a mudança formal de **sistemas** ;
+				- a mudança de **políticas** ; e
+				- a mudança **cultural** .
+		- Em resumo
+			- > **“We digitize information, we digitalize processes and roles that make up the operations of a business, and we digitally transform the business and its strategy.”** [^2]
+			  — Jason Bloomberg, evangelista de transformação digital
+			- A forma de migrar de um estágio da adoção digital para o outro é através da aceitação da mudança e de tornar a experiência dos usuários em relação a ferramentas digitais o mais simples e fácil possível. [^1]
+	- Maturidade Digital no Brasil
+		- Em 2021 a [ABDI](https://www.abdi.com.br/) realizou em conjunto com a FGV uma pesquisa [^4] que mede o nível de digitalização das micro e pequenas empresas do Brasil.
+			- 2.572 respostas de empresas privadas nacionais, coletadas entre 03/03 e 31/05/2021 (1.176 de serviços, 804 de comércio e 537 do setor industrial).
+			- 4 níveis de escala de maturidade digital foram propostos por ABDI e FGV:
+				- Nível 1: **Analógico** (0 a 20 pontos);
+				- Nível 2: **Emergente** (21 a 50 pontos);
+				- Nível 3: **Intermediário** (51 a 80 pontos);
+				- Nível 4: **Líder Digital** (81 a 100 pontos).
+			- A média de maturidade digital das MPEs brasileiras é de 40,77 pontos, em uma escala variando de 0 a 100 pontos.
+				- Serviços: 43,73; Indústria: 40,49; e Comércio: 36,75.
+			- Este nível representa as empresas **emergentes** , que têm se esforçado para se digitalizar, mas ainda possuem estrutura e modelo de negócios tradicionais.
+			- A maturidade digital é medida pelo grau de alcance combinado de **5 objetivos** , que por sua vez são divididos em boas práticas, totalizando 25 delas, cuja escala de uso se dividem em implementado, parcialmente implementado e não implementado.:
+				- **1. Conectar e engajar clientes**
+					- Compreender as mudanças de comportamentos no ambiente digital, relativos a forma como a empresa acessa, se engaja, customiza (personaliza produtos e experiências), se conecta e colabora com os seus clientes.
+					- **Boas práticas:**
+						- 1. Uso de Mídias Sociais
+						- 2. Website com funcionalidades interativas
+						- 3. Experiência Omnichannel
+						- 4. Ferramentas de personalização da experiência
+						- 5. Atendimento automatizado para perguntas frequentes
+						- 6. Criar conteúdos e participar de discussões on-line
+				- **2. Estabelecer novas bases de competição**
+					- Reposicionar a atuação da empresa em função das novas formas de concorrência e ampliar mercados a partir de novos formatos de negócios, com uso de ferramentas e tecnologias digitais para transformar os negócios tradicionais em empresas digitais e explorar possibilidades de desintermediações digitais e novos modelos de negócios e fontes de receitas.
+					- **Boas práticas:**
+						- 7. Desenvolver novas formas de competição
+						- 8. Participar de plataformas de negócios
+						- 9. Acessar especialistas em ICT (inovação, comunicações e tecnologia)
+						- 10. Teletrabalho com ferramentas de gestão de equipes
+						- 11. Digitalizar e integrar processos de negócios
+				- **3. Construir uma organização orientada a dados**
+					- Entender a necessidade e a importância de se usar dados na tomada de decisão, bem como estar preparado para lidar com a segurança e privacidade dos dados, desenvolvendo procedimentos de coleta, tratamento e análise de dados voltados para identificação de **insights** e desenvolvimento de novos produtos e serviços.
+					- **Boas práticas:**
+						- 12. Coletar e armazenar dados na cadeia de suprimentos
+						- 13. Coletar e armazenar dados nas relações com clientes
+						- 14. Explorar dados de diversas fontes (estruturados e não-estruturados)
+						- 15. Usar dados para tomada de decisões
+						- 16. Desenvolver análises preditivas a partir dos dados
+						- 17. Qualificar os funcionários para uso dos dados
+				- **4. Inovar mais rápido e colaborativamente**
+					- Reposicionar a atuação da empresa em função das novas formas de concorrência e ampliar mercados a partir de novos formatos de negócios, com uso de ferramentas e tecnologias digitais para transformar os negócios tradicionais em empresas digitais e explorar possibilidades de desintermediações digitais e novos modelos de negócios e fontes de receitas.
+					- **Boas práticas:**
+						- 18. Inovar colaborativamente
+						- 19. Ambiente que encoraje a tomada de risco e a inovação
+						- 20. Construir, medir, aprender
+						- 21. Usar a rede de parceiros e fornecedores para inovar
+						- 22. Interagir com o ecossistema de inovação de sua região
+				- **5. Gerar mais valor para os clientes**
+					- A velocidade das mudanças trazidas pela transformação digital leva as empresas a considerar permanentemente se seu modelo de negócios está entregando valor a seus clientes ou se os clientes estão migrando para outros formatos de consumo de produtos e serviços, sobretudo em mercados que estejam sendo severamente impactados pela transformação digital dos negócios.
+					- **Boas práticas:**
+						- 23. Usar feedbacks online para gerar novos produtos
+						- 24. Desenvolver novos modelos de negócios de teste rápido
+						- 25. Usar tecnologia para compreender valor para o cliente
+		- A utilização de **tecnologias habilitadoras** e de **tecnologias digitais de aprendizagem** complementam a escala de maturidade digital da pesquisa da ABDI.
+		- **Tecnologias habilitadoras** devem facilitar as ações de digitalização dos negócios e embasar o desenvolvimento das práticas para a transformação digital, integrando os negócios físicos e virtuais.
+			- Escala: Implementado, parcialmente implementado e não implementado.
+				- Acesso à internet de banda larga
+				- Serviços de Cloud Computing
+				- Uso de e-learning para qualificação da equipe
+				- Ferramentas de Cybersegurança
+				- Armazenamento de dados e rotinas de back-ups
+		- Já a adoção de **formatos de aprendizagem digital** aceleram a implementação de inovações, o acesso à informações e a qualificação das equipes e dos negócios.
+			- Escala: Usei e gostei, usei e não gostei, nunca usei.
+				- Curso on-line assíncrono
+				- Curso on-line síncrono
+				- Vídeos com instruções
+				- Conteúdos gamificados
+				- Mentoria on-line
+				- Implementar melhorias pós aprendizado on-line
+### Referências
+	- [^1]: Achieving Digital Enlightenment: The 3 Stages Of Digital Adoption & How To Move Through Them; 2019; https://www.digital-adoption.com/stages-of-digital-adoption/
+	- [^2]: Digitization, Digitalization, And Digital Transformation: Confuse Them At Your Peril; 2018; https://www.forbes.com/sites/jasonbloomberg/2018/04/29/digitization-digitalization-and-digital-transformation-confuse-them-at-your-peril/?sh=417a671e2f2c
+	- [^3]: Gartner IT Glossary; https://www.gartner.com/en/information-technology/glossary/
+	- [^4]: Maturidade Digital das MPEs brasileiras; 2021; **(PDF)** ; https://api.abdi.com.br//file-manager/upload/files/Mapa_da_Digitaliza%C3%A7%C3%A3o_das_MPEs_Brasileiras__1___1_.pdf
+	-

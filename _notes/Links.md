@@ -1,0 +1,2 @@
+- Minha tentativa de criar uma curadoria de links 100% baseada em arquivos texto, markdown e Logseq.
+- {{query [[link]]}}

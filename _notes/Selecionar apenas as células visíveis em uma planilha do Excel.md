@@ -1,0 +1,4 @@
+- **Já aconteceu com todo mundo que eu conheço:** O Excel pode agir de forma _inesperada_ quando você resolve **copiar e colar** uma determinada faixa de células de uma planilha. O comportamento padrão da ferramenta é copiar e colar **todas** as células, ainda que algumas delas estejam ocultas, qualquer que seja o motivo para isso.
+- Só que, às vezes, o que você quer fazer é **trabalhar só com os dados que estão visíveis**.
+- Pois existe um **atalho** que pode economizar seu tempo e poupar dores de cabeça. Através dele, **somente as células visíveis serão selecionadas**, independente de você ter aplicado um filtro em seus dados, recolhido os dados de um subtotal ou ocultado linhas e colunas deliberadamente.
+- Utilize a combinação **`ALT + ;`** (ponto-e-vírgula) em seu teclado para selecionar apenas as células visíveis da planilha.

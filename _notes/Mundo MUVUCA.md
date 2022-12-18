@@ -1,0 +1,24 @@
+## Mundo MUVUCA
+	- **MUVUCA**, palavra que se assemelha à que usamos em português para descrevem bagunça ou desorganização, na verdade é um conceito complementar ao do [[Mundo VUCA]].
+	- A sigla se originou recentemente, depois que algumas publicações sugeriram acrescentar as letras **MU**, significando, respectivamente, *Meaningful* e *Universal*.
+	- Ao contrário do que ocorre nas definições de [[Mundo VUCA]] e de [[VUCA 2.0]], não se sabe ao certo o autor do complemento.
+	- ### Significativo (*Meaningful*)
+		- Tudo o que fazemos precisa ter sentido, propósito, significado. E o propósito não é nem a visão, nem a missão e nem os valores de uma empresa, como explica a Harvard Business Review.
+		- Um propósito real, verdadeiro e palpável dá um motivo tangível para que decisões sejam tomadas e, tarefas, executadas — e isso, tanto no âmbito pessoal quanto profissional.
+		- Enquanto a **missão** descreve o negócio, a **visão** indica onde a empresa estará em alguns anos e os **valores** descrevem a cultura, o **propósito** inspira e dá orientação prática.
+		- O propósito é um motivo para se orgulhar, para acreditar que o seu trabalho e as suas ações têm impacto em algum lugar. Ele é um **norte**, devendo ser claro e compartilhado como um compromisso moral.
+	- ### Universal
+		- O que se faz aqui pode repercutir muito além. Sempre precisamos analisar o impacto de nossas decisões. A tomada de decisão é o que move o ser humano. Mas para onde você está indo?
+		- Em uma empresa, o líder é o responsável por fazer escolhas que refletem diretamente no negócio. Muitas vezes, esse processo não é fácil. Assim, a tomada de decisão pode ser uma dor de cabeça.
+		- Na **vida pessoal** ocorre o mesmo. *Cada escolha é, de fato, uma renúncia*. Você escolhe um caminho e abandona o outro. Então, como tornar esse processo mais tranquilo? Como planejar, estruturar e organizar sua decisão para que essa tomada de ação seja mais assertiva e direcionada para os seus objetivos?
+		- O gestor geralmente é quem se responsabiliza por esse processo, que pode envolver diferentes graus de dificuldade. Afinal, nem sempre é fácil fazer escolhas que, sem dúvidas, trarão impacto ao negócio.
+		- No entanto, a tomada de decisão é absolutamente importante para uma organização. Sem ela, a empresa pode perder negociações e descartar oportunidades de crescimento no mercado, por exemplo. As escolhas ocorrem a todo momento: quando é preciso investir em produtos, negociar com fornecedores e reformular uma equipe, entre outros.
+		- **Como toda a decisão tem um impacto no universo**, os líderes devem tomar suas decisões com um visão holística. Qualquer decisão pode impactar nos lucros e resultados, nos colaboradores, na natureza, na sociedade em geral etc.
+		- Em uma decisão, dois aspectos principais entram em jogo: a **razão** e a **emoção**. Encontrar um balanço entre os dois, muitas vezes, é difícil. Mas esse equilíbrio é fundamental para que o líder não acabe fazendo escolhas erradas e mal planejadas.
+-
+### Ver também:
+	- [[Mundo VUCA]]
+	- [[VUCA 2.0]]
+	- [[Mundo MUVUCA]]
+	- [[Mundo BANI]]
+	- [[Enfrentando a era do caos]]

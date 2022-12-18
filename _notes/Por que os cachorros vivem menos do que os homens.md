@@ -1,0 +1,27 @@
+- Suspeitei que esta excelente reflexão fosse uma adaptação do inglês porque uma das versões que circulam por ai faz uma tradução errada do verbo `to pretend`, que aparece como **pretender** mas que significa **fingir**. Depois de pesquisar um pouquinho encontrei no Quora [a versão em inglês](https://qr.ae/pGF8Cj).
+- Mas para esse registro fica a versão em português, com as devidas correções, é claro.
+- Aqui está a resposta:
+	- Sendo um veterinário, fui chamado para examinar um cão de 13 anos de idade chamado Batuta. A família esperava por um milagre.
+	- Examinei Batuta e descobri que ele estava morrendo de câncer e que eu não poderia fazer nada…
+	- Batuta foi cercado pela família. O menino, Pedro, parecia tão calmo, acariciando o cão pela última vez, e eu me perguntava se ele entendia o que estava acontecendo.
+	- Em poucos minutos, Batuta caiu pacificamente, dormindo para nunca mais acordar.
+	- O garotinho parecia aceitar sem dificuldade. Ouvi a mãe se perguntando: — “Por que a vida dos cães é mais curta do que a dos seres humanos?”
+	- Pedro disse: “Eu sei por quê.”
+	- A explicação do menino mudou minha maneira de ver a vida.
+	- Ele disse: — ”**A gente vem ao mundo para aprender a viver uma boa vida, como amar aos outros o tempo todo e ser boa pessoa, né?! Como os cães já nascem sabendo fazer tudo isso, eles não têm que viver por tanto tempo como nós.**”
+	- Entendeu? A moral da história é que, se um cão fosse seu professor, você aprenderia coisas como:
+		- Quando teus entes queridos chegarem em casa, sempre corra para cumprimentá-los.
+		- Nunca deixe passar uma oportunidade de ir passear.
+		- Permita que a experiência do ar fresco e do vento no seu rosto seja de puro êxtase!
+		- Tire cochilos.
+		- Alongue-se antes de se levantar.
+		- Corra, salte e brinque diariamente.
+		- Evite “morder” quando apenas um “rosnado” seria suficiente.
+		- Em um clima muito quente, beba muita água e deite-se na sombra de uma árvore frondosa.
+		- Quando você estiver feliz, dance movendo todo o seu corpo.
+		- Delicie-se com a simples alegria de uma longa caminhada.
+		- Seja fiel.
+		- Nunca finja ser alguém que não é.
+		- Se o que você quer, está “enterrado”… cave até encontrar.
+	- E nunca se esqueça:
+		- Quando alguém tiver num mal dia, fique em silêncio, sente-se próximo e suavemente faça-o sentir que você está ali.

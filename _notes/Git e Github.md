@@ -1,0 +1,34 @@
+### Referências
+	- Vídeos da **Rafaella Ballerini** no YouTube sobre Git e Github, [aqui](https://youtu.be/DqTITcMq68k) conceitualmente, e [aqui](https://youtu.be/UBAX-13g8OM) na prática.
+### O que é Git
+	- **Git** é uma ferramenta de _versionamento_ de arquivos, ou seja, serve pra controlar e manter o histórico de versões de um arquivo.
+	- Me vêm à cabeça diversas situações em que ter várias versões de um mesmo arquivo pode ser útil:
+		- Se estou escrevendo código e à medida que evoluo acrescentando novas funcionalidades encontro um erro, posso comparar o que eu tinha antes do erro ser introduzido com o que tenho agora;
+		- Se estou trabalhando em uma equipe e cada um desenvolve uma parte de um projeto, posso juntar as diversas versões criadas — duas ou mais pessoas podem até editar um mesmo arquivo, ao mesmo tempo, cada um da sua casa e sem terem combinado nada, que depois se pode comparar, unificar ou revisar o que foi feito;
+		- Se escrevo um post para o site e mudo meu raciocínio várias vezes, posso comparar versões;
+		- Também posso comparar versões de um documento (relatório, instrução de trabalho, procedimento ou qualquer outra coisa) se me pedem alterações, ou se preciso recuperar algo que eu tinha escrito antes e abandonado.
+	- Eu, curioso que sou, sabendo que o Git se originou através do Linux, imaginei que se tratasse de uma **sigla**, e fui tentar descobrir **[[porque o Git se chama Git]]**.
+- ### O que é Github
+	- Já **Github** é uma plataforma (entre diversas outras atualmente disponíveis) que permite hospedar os arquivos em que se está aplicando esse controle de versão através do **git**.
+	- Segundo a Rafaella Ballerini, o Github também pode ser considerado uma **rede social de programadores** que compartilham código (_eu nunca tinha pensado nisso, mas faz muito sentido quando se para pra pensar_).
+### Vocabulário do Github
+	- #### Repositórios
+		- O Github trabalha com **repositórios**. Repositórios nada mais são do que os diretórios (ou pastas) em que ficam armazenados os arquivos dos meus projetos.
+	- #### Forks
+		- Um **fork** acontece quando você, ao navegar pelas páginas do Github, encontra o código de alguém, acha interessante e copia (rouba?! 😂😂) pra você: uma cópia desse código é feita em um repositório seu, e assim você pode estudar, melhorar esse código ou se inspirar para os seus próprios projetos.
+		- Pra quem programa profissionalmente, o Github também serve como um portfólio dos projetos que você já realizou.
+	- #### Branches
+		- Um **branch** é uma ramificação dentro de um repositório.
+		- Um projeto pode ser desenvolvido todo em um único _branch_, e evoluir até o final (por exemplo, se tenho o projeto de um site em HTML) que vai crescendo diariamente até que fique pronto — num dia cabeçalho, no outro corpo da página, no outro, rodapés.
+		- Mas uma das funções mais interessantes do _branch_ é permitir desenvolver as funcionalidades principais na ramificação principal (as funcionalidades de um projeto **que eu tenho certeza** que vão ficar até o final) e criar _branches_ para funções que ainda não se sabe se serão mantidas.
+	- #### Commits
+		- Fazer um **commit** significa postar ou salvar o seu trabalho (criando uma nova versão na linha principal ou em _branches_ do seu projeto).
+	- #### Merges
+		- Fazer um **merge** significa fazer a junção de um ou mais _branches_ que você vem desenvolvendo em sua ramificação principal.
+		- Este é o recurso que permite que várias pessoas trabalhem ao mesmo tempo em um único arquivo: se o mesmo arquivo existe no _branch_ principal e num secundário, e uma pessoa cria um botão no arquivo do ramo principal enquanto outra pessoa cria um campo no secundário, o **merge** unifica tudo sem problema (nada foi excluído e são coisas diferentes, afinal).
+		- Já se você estiver trabalhando num botão em um _branch_ e outra pessoa estiver trabalhando num botão em outro _branch_, e eles recebem nomes diferentes, por exemplo, ao fazer o **merge** esse conflito precisa ser resolvido manualmente.
+	- #### Remote
+		- **Remote** é o conceito através do qual um repositório que você tem localmente no computador (criado é operado com **git**) passa a existir também em alguma plataforma (o **Github** por exemplo).
+		- Daqui vem dois conceitos importantes:
+			- **Push**, que é colocar o **commit** feito na sua máquina local na plataforma remota (nada que você altere ou grave localmente vai ser alterado remotamente, a menos que você faça o **push**).
+			- **Pull** é o contrário. Você puxa do repositório remoto o código desenvolvido por outras pessoas (da mesma equipe em que você está trabalhando), para, por exemplo, continuar desenvolvendo o seu trabalho a partir das versões mais recentes e com novas funcionalidades introduzidas pelos outros.

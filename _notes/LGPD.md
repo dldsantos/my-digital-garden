@@ -1,0 +1,9 @@
+- É a **Lei Geral de Proteção de Dados** (**[Lei 13.709](https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/36849373/do1-2018-08-15-lei-no-13-709-de-14-de-agosto-de-2018-36849337))**, legislação brasileira criada para proteger o uso de dados pessoais dos cidadãos do país e garantir a [privacidade e proteção de dados]([[§ Privacidade e proteção de dados]]). Está em vigência desde 18/09/2020, tendo sido aprovada em 14/08/2018.
+- Apesar de se chamar *Lei Geral de Proteção de Dados* não é a única legislação nacional que trata do tema privacidade de dados e direitos de proteção à informação. A **Constituição Federal (CF)**, o **Código Civil (CC)**, o **Código de Defesa do Consumidor (CDC)** e o **[Marco Civil da Internet (MCI)](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)** são todos exemplos de publicações ou legislações que também abordam o tema - além de regulamentações setoriais (ANS, BACEN, SUSEP e outros).
+-
+  #+BEGIN_PINNED
+  Assim como no caso da GDPR e de outras legislaçoes de proteção à privacidade de dados dos cidadãos, a LGPD gravita ao redor dos conceitos de [[dado pessoal]] e [[dado pessoal sensível]].
+  #+END_PINNED
+- Qualquer dado coletado ou tratado no Brasil e que gere a **identificação de uma pessoa** que esteja em operação no país pode gerar aplicação da lei de proteção de dados pessoais. Mesmo que, por exemplo, eu contrate um _desenvolvedor de software indiano_, se ele vem trabalhar no Brasil e gerar bens ou produtos em nosso território, vai ser aplicada a LGPD da mesma forma.
+- Para ser aplicada a LGPD, **a pessoa precisa estar viva**: as pessoas falecidas, conforme considera nossa legislação, não possuem o direito à privacidade.
+- No contexto de Tecnologia da Informação, para o tratamento adequado de incidentes envolvendo violação de dados, é importante que seja levado em conta o [artigo 48]([[LGPD Artigo 48 - Comunicação de Incidentes de Segurança]]) da LGPD.

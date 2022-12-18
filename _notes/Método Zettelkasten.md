@@ -1,0 +1,10 @@
+- Parafraseando parcialmente o [Delchi Bruce](https://delchibruce.com/), (tenho me tornado cada vez mais) “*obcecado por tomar notas. No passado já precisei de informações que foram perdidas*“ (e que me fizeram não levar ideias e projetos adiante, ou não completá-los). “*Então passei a documentar*” (quase tudo).
+- Eu nunca usei nenhum método específico para tomar notas de nada. Aliás, eu sequer imaginava que *houvessem* métodos pra fazer anotações. Daí, quando ouvi falar sobre o **método Zettelkasten**, obviamente me interessei, porque pareceu perfeito poder usar alguma coisa estruturada para organizar meus pensamentos (*e eu bem sei o quanto estou precisando me organizar, e organizar a minha cabeça*).
+- **Zettelkasten**, aliás, é considerado um [[sistema de gestão do conhecimento]].
+### Algumas referências interessantes sobre Zettelkasten
+	- [O método Zettelkasten de anotar](https://delchibruce.com/o-metodo-zettelkasten.html), escrito pelo [Delchi Bruce](https://delchibruce.com/).
+	- [A Beginner’s Guide to the Zettelkasten Method](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/), um texto da Jessica Arcenas com detalhes sobre os tipos de notas do Zettelkasten e mais.
+	- [The Zettelkasten Method: Examples to help you get started](https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6), um texto da Rebecca Williams com exemplos práticos dos tipos de notas requeridos pelo Método Zettelkasten.
+	- ### 📚 Livros
+		- [[How to Take Smart Notes]], escrito por Sönke Ahrens, explica os conceitos básicos do método Zettelkasten e também dá uma série de dicas muito valiosas.
+		- [[Digital Zettelkasten]], escrito por David Kadavy, explica os princípios e métodos que podem ser usados para implantar o Zettelkasten em meio digital, além de dar vários exemplos ilustrativos.

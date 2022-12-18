@@ -1,0 +1,5 @@
+- De acordo com a [lei 13709](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm) ([[LGPD]]):
+	- **dado pessoal sensível** -> dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural.
+- Um dado pessoal é considerado **sensível** pois sua coleta e utilização pode se dar para fins discriminatórios ou visando prejudicar uma pessoa.
+- Um **dado pessoal sensível** expõe as preferências particulares e a intimidade de uma pessoa e é por isso que a LGPD estabelece esta distinção, visando proteger tais dados.
+- Enquanto o **número de cartão de crédito** é um [[dado pessoal]], a **fatura do cartão de crédito** pode muito bem ser considerada um dado pessoal sensível, visto que através destes dados posso conhecer o perfil de gastos de uma pessoa, onde, quando e o que compra, quais são suas preferências, etc.

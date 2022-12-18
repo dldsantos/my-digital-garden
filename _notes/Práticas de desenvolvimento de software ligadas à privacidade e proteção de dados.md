@@ -1,0 +1,1 @@
+- Whether you work alone, are part of a team developing a project, manage a development team, or are a service provider carrying out developments for third parties, it is essential to ensure that user data and all personal data processing are suffisiently protected throughout the lifecycle of the project.
